@@ -1,2 +1,8 @@
 node_modules
 .eslintcache
+build
+**/__pycache__/
+**/__pycache__/**
+**/.vscode/
+*.xml
+package-lock.json
